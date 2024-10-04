@@ -20,3 +20,9 @@ int main(){
     else
     cout<<"The coordinate lies in fourth quadrant";
 }
+/*
+**Output**
+Enter X coordinates: 3
+Enter Y coordinates: 5
+The coordinate lies in first quadrant
+*/
