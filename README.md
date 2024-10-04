@@ -1,4 +1,4 @@
-# EXP_3_OPERATORS-IN-C-
+# EXP_3 Operators In C++
 To study and implement Operators in C++
 
 # Software Used 
