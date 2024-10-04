@@ -1,7 +1,4 @@
-//Aditya Sthawarmath
-//23070123008
-//Exp-3.c
-//Program to take input of marks of 5 subjects and display the grade
+
 
 #include <iostream>
 using namespace std;
@@ -31,3 +28,12 @@ int main(){
     else
     cout<<"Fail";
 }
+/*
+    **Output**
+Enter the marks of first subject: 50
+Enter the marks of second subject: 80
+Enter the marks of third subject: 45
+Enter the marks of fourth subject: 65
+Enter the marks of fifth subject: 75
+Grade: B+
+*/
