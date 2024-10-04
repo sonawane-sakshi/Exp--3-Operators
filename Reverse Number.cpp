@@ -15,3 +15,7 @@ int main(){
         num=num/10;
     }
 }
+/*
+Enter last five digits of your PRN: 123505
+505321
+*/
