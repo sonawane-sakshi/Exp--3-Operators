@@ -16,6 +16,21 @@ Operators in C++ can be classified into 6 types:
 5.Assignment Operators
 6.Ternary or Conditional Operators
 
+# Information About Operators
+**-Arithmetic Operators:** Used for basic math operations, including +, -, *, /, and %.
+
+**-Relational Operators:** Used for comparisons, such as ==, !=, <, >, <=, and >=.
+
+**-Logical Operators:** Allow combining conditions, using &&, ||, and !.
+
+**-Bitwise Operators:** Perform operations on bits, including &, |, ^, ~, <<, and >>.
+
+**-Assignment Operators:** Assign values and can perform operations like =, +=, -=, *=, and /=.
+
+**-Increment/Decrement Operators:** Increase or decrease a variable's value by one (++ and --).
+# Conclusion 
+In THis Experiment we have studied about the operators in cpp and implement programs for it.
+
 
 
 
